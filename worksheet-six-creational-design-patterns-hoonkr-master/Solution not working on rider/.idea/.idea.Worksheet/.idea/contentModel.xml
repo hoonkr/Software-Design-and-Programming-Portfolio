@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\hyung\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hyung\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Worksheet.-1084927350.00" t="ExcludeRecursive" />
+    <e p="C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet" t="IncludeFlat">
+      <e p="AbstractFactory" t="IncludeRecursive">
+        <e p="AbstractFactory.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Builder" t="IncludeRecursive">
+        <e p="Builder.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="FactoryMethod" t="IncludeRecursive">
+        <e p="FactoryMethod.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Prototype" t="IncludeRecursive">
+        <e p="Prototype.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Singleton" t="IncludeRecursive">
+        <e p="Singleton.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Worksheet.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

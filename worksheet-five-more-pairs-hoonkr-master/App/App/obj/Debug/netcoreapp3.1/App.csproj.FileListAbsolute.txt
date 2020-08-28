@@ -1,0 +1,11 @@
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\bin\Debug\netcoreapp3.1\App.exe
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\bin\Debug\netcoreapp3.1\App.dll
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\obj\Debug\netcoreapp3.1\App.dll
+C:\Users\hyung\Desktop\SDP\worksheet-five-more-pairs-hoonkr\App\App\obj\Debug\netcoreapp3.1\App.pdb

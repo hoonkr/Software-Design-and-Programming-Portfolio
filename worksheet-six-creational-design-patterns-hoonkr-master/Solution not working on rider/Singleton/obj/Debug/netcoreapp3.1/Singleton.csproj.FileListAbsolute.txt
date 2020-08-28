@@ -1,0 +1,11 @@
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb

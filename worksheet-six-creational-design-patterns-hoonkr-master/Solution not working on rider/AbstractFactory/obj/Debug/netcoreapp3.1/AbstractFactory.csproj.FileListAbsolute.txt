@@ -1,0 +1,22 @@
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb

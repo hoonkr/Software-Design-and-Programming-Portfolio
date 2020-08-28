@@ -1,0 +1,22 @@
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Builder\obj\Debug\netcoreapp3.1\Builder.pdb

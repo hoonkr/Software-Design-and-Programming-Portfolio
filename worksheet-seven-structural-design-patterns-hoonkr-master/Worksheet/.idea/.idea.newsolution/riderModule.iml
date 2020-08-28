@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../Worksheet/Adaptor" />
+    <content url="file://$MODULE_DIR$/../../../Worksheet/Bridge" />
+    <content url="file://$MODULE_DIR$/../../../Worksheet/Composite" />
+    <content url="file://$MODULE_DIR$/../../../Worksheet/Decorator" />
+    <content url="file://$MODULE_DIR$/../../../Worksheet/Facade" />
+    <content url="file://$MODULE_DIR$/../../../Worksheet/Flyweight" />
+    <content url="file://$MODULE_DIR$/../../../Worksheet/ProtectedProxy" />
+    <content url="file://$MODULE_DIR$/../../../Worksheet/VirtualProxy" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

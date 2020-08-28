@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../memento" />
+    <content url="file://$MODULE_DIR$/../../../observer" />
+    <content url="file://$MODULE_DIR$/../../../state" />
+    <content url="file://$MODULE_DIR$/../../../strategy" />
+    <content url="file://$MODULE_DIR$/../../../template" />
+    <content url="file://$MODULE_DIR$/../../../visitor" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

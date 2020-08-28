@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\hyung\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hyung\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Solution.339231118.00" t="ExcludeRecursive" />
+    <e p="C:\Users\hyung\Desktop\SDP\worksheet-nine-behavioural-design-patterns-hoonkr\memento" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CareTaker.cs" t="Include" />
+      <e p="Memento.cs" t="Include" />
+      <e p="memento.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="memento.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Originator.cs" t="Include" />
+      <e p="TestMementoPattern.cs" t="Include" />
+    </e>
+    <e p="C:\Users\hyung\Desktop\SDP\worksheet-nine-behavioural-design-patterns-hoonkr\observer" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CommentaryObject.cs" t="Include" />
+      <e p="ICommentary.cs" t="Include" />
+      <e p="IObserver.cs" t="Include" />
+      <e p="ISubject.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="observer.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="observer.csproj" t="IncludeRecursive" />
+      <e p="SMSUsers.cs" t="Include" />
+      <e p="TestObserver.cs" t="Include" />
+    </e>
+    <e p="C:\Users\hyung\Desktop\SDP\worksheet-nine-behavioural-design-patterns-hoonkr\Solution" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Solution.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\hyung\Desktop\SDP\worksheet-nine-behavioural-design-patterns-hoonkr\state" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="IRoboticState.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="state.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Robot.cs" t="Include" />
+      <e p="state.csproj" t="IncludeRecursive" />
+      <e p="TestStatePattern.cs" t="Include" />
+    </e>
+    <e p="C:\Users\hyung\Desktop\SDP\worksheet-nine-behavioural-design-patterns-hoonkr\strategy" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CapTextFormatter.cs" t="Include" />
+      <e p="ITextEditor.cs" t="Include" />
+      <e p="ITextFormatter.cs" t="Include" />
+      <e p="LowerTextFormatter.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="strategy.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="strategy.csproj" t="IncludeRecursive" />
+      <e p="TestStrategyPattern.cs" t="Include" />
+      <e p="TextEditor.cs" t="Include" />
+    </e>
+    <e p="C:\Users\hyung\Desktop\SDP\worksheet-nine-behavioural-design-patterns-hoonkr\template" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ConnectionTemplate.cs" t="Include" />
+      <e p="MySqLCSVCon.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="template.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="OracleTxtCon.cs" t="Include" />
+      <e p="template.csproj" t="IncludeRecursive" />
+      <e p="TestTemplatePattern.cs" t="Include" />
+    </e>
+    <e p="C:\Users\hyung\Desktop\SDP\worksheet-nine-behavioural-design-patterns-hoonkr\visitor" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CssClassVisitor.cs" t="Include" />
+      <e p="HtmlElement.cs" t="Include" />
+      <e p="HtmlParentElement.cs" t="Include" />
+      <e p="HtmlTag.cs" t="Include" />
+      <e p="IElement.cs" t="Include" />
+      <e p="IVisitor.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="visitor.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="StyleVisitor.cs" t="Include" />
+      <e p="TestVisitorPattern.cs" t="Include" />
+      <e p="visitor.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

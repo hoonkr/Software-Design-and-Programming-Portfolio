@@ -1,0 +1,11 @@
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb

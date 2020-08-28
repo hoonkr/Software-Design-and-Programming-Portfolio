@@ -1,0 +1,11 @@
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\hyung\Desktop\SDP\worksheet-six-creational-design-patterns-hoonkr\Solution not working on rider\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
